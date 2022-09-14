@@ -1,11 +1,11 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(6.0.7)*%
-%TF.CreationDate,2022-09-13T17:29:25+02:00*%
+%TF.CreationDate,2022-09-14T15:08:01+02:00*%
 %TF.ProjectId,rp2040-keypad,72703230-3430-42d6-9b65-797061642e6b,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-09-13 17:29:25*
+G04 Created by KiCad (PCBNEW (6.0.7)) date 2022-09-14 15:08:01*
 %MOMM*%
 %LPD*%
 G01*
@@ -20,7 +20,7 @@ X183800000Y-102275000D01*
 X181550000Y-104525000D02*
 G75*
 G03*
-X183800000Y-102275000I-50570J2300570D01*
+X183800000Y-102275000I-50600J2300600D01*
 G01*
 X183800000Y-60050000D02*
 G75*
