@@ -5,7 +5,7 @@ Comment,Designator,Footprint,LCSC
 "1u","C5,C14","Capacitor_SMD:C_0402_1005Metric","C52923"
 "USB_C_Receptacle_USB2.0","J1","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","C165948"
 "5k1","R1,R2","Resistor_SMD:R_0402_1005Metric","C25905"
-"27R4","R3,R4","Resistor_SMD:R_0402_1005Metric","C26971"
+"27R4","R3,R4","Resistor_SMD:R_0402_1005Metric","C31439"
 "1k","R5,R6","Resistor_SMD:R_0402_1005Metric","C11702"
 "AMS1117-3.3","U1","Package_TO_SOT_SMD:SOT-223-3_TabPin2","C6186"
 "RP2040","U2","Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm","C2040"
