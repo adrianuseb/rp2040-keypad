@@ -398,8 +398,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "rp2040-keypad.step",
+      "vrml": "rp2040-keypad.wrl"
     },
     "page_layout_descr_file": ""
   },
