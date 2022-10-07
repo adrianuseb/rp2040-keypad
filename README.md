@@ -28,7 +28,7 @@ placement for ordering the board.
 ## Uploading firmware
 
 Uploading firmware with RP2040 IC is a very simple task. Just short the BOOT jumper while connecting the USB to PC. The board should appear as a mass storage device
-on the host PC. Then just copy the [.uf2 file](./rp2040-keypad-1000hz.uf2) there and the board should reset itself. The firmware is installed with z and x as the key.
+on the host PC. Then just copy the [.uf2 file](./rp2040-keypad-1000hz.uf2) there and the board should reset itself. The firmware is written with z and x as the key.
 
 ## Case
 
