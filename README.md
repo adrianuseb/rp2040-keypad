@@ -32,7 +32,7 @@ on the host PC. Then just copy the [.uf2 file](./rp2040-keypad-1000hz.uf2) there
 
 ## Case
 
-There is also a simple [case](./case.obj) for 3D printing. For the case are following components also needed:
+There is also a simple [case](./case.obj) for 3D printing. The following components are also required for the case:
   - 4 M2 14mm
   - 4 M2 hex nuts
 
